@@ -1,0 +1,36 @@
+.footer-top {
+	background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
+	/* height: 774px; */
+}
+
+.footer-top h1 {
+	font-weight: 700;
+	font-size: 48px;
+	line-height: 60px;
+	background: linear-gradient(124.4deg, #ffffff 10.8%, #ffffff 87.34%);
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+}
+
+.footer-top p {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 35px;
+	color: #fff;
+}
+
+@media (min-width: 481px) {
+}
+
+@media (min-width: 768px) {
+	.footer-top .footerTopBtn {
+		background-color: #fff;
+		color: #a02279;
+		width: 150px;
+	}
+
+	.nft-image {
+		width: 704px;
+		height: 574.85px;
+	}
+}

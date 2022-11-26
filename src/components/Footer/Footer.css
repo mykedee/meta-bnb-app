@@ -1,0 +1,23 @@
+/*********footer section***********/
+.footer {
+	height: 322px;
+	background: #1d1d1e;
+}
+
+.footer h6 {
+	font-family: 'Red Rose';
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 22px;
+	color: #fff;
+}
+
+.footer a {
+	color: #fff;
+}
+
+@media (min-width: 481px) {
+}
+
+@media (min-width: 768px) {
+}

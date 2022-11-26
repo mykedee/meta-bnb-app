@@ -1,0 +1,23 @@
+.brand-logo {
+	width: 188.1px;
+	height: 32.19px;
+}
+
+.house-logo {
+	width: 41.99px;
+	height: 36.37px;
+}
+
+.header-area nav-link {
+	color: #434343;
+}
+
+.header-area button {
+	background: linear-gradient(90deg, #a02279 11.45%, #a02279 11.45%);
+	border-radius: 10px;
+	border: none;
+	font-size: 16px;
+	color: #fff;
+	width: 170px;
+	height: 48px;
+}
